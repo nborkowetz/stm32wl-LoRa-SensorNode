@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "0e1e2331-020a-438b-acaf-cf90394cf536")
 	(paper "A4")
+	(title_block
+		(title "LoRa Node MCU")
+		(date "2025-11-28")
+		(rev "A")
+		(company "Nicola Borkowetz")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_ARM_SWD_TagConnect_TC2030"
 			(exclude_from_sim no)
@@ -6046,7 +6052,7 @@
 			(uuid "c3e31d97-8b92-49ee-859d-dc62b26af1fb")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C9")
 					(unit 1)
@@ -6270,7 +6276,7 @@
 			(uuid "626c0efb-1f27-4ef7-a435-a0ace780e212")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "U3")
 					(unit 1)
@@ -6352,7 +6358,7 @@
 			(uuid "70102c15-08e4-421f-a374-9ae39a88ffcc")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "FB3")
 					(unit 1)
@@ -6430,7 +6436,7 @@
 			(uuid "b9bea5ec-f729-4b69-9c1e-6b5a9a45dfc3")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR020")
 					(unit 1)
@@ -6508,7 +6514,7 @@
 			(uuid "5b0f454f-0708-4a68-a647-4f7490983a1f")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR034")
 					(unit 1)
@@ -6586,7 +6592,7 @@
 			(uuid "c7ecaded-4340-4fa9-b7bb-14a99b08b43f")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR036")
 					(unit 1)
@@ -6664,7 +6670,7 @@
 			(uuid "c29524c6-860f-4054-936f-b15af1f2977c")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR027")
 					(unit 1)
@@ -6746,7 +6752,7 @@
 			(uuid "0bf31fb9-9323-45d1-9597-d5a752c195f7")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C18")
 					(unit 1)
@@ -6823,7 +6829,7 @@
 			(uuid "be0d3d9d-bb89-4225-a52a-4d7ce1ac6ca0")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR031")
 					(unit 1)
@@ -6901,7 +6907,7 @@
 			(uuid "a59de207-51f6-4f7b-96c7-255d961955b6")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR028")
 					(unit 1)
@@ -6983,7 +6989,7 @@
 			(uuid "9373647f-2ad1-4585-bb7e-4840f815238c")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "R13")
 					(unit 1)
@@ -7065,7 +7071,7 @@
 			(uuid "253467d0-e908-4f41-9cd8-a2955b21a741")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "R16")
 					(unit 1)
@@ -7157,7 +7163,7 @@
 			(uuid "3eb2522f-54d6-410a-8d24-c91aa3fdcc29")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "D6")
 					(unit 1)
@@ -7239,7 +7245,7 @@
 			(uuid "18c085c6-f31f-458b-87e8-8189d00e719c")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C13")
 					(unit 1)
@@ -7321,7 +7327,7 @@
 			(uuid "9b2a28e0-062e-4742-995b-7e61fad9bc07")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "R15")
 					(unit 1)
@@ -7403,7 +7409,7 @@
 			(uuid "a2e22504-5b21-48ba-a586-9fb4a392074d")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C11")
 					(unit 1)
@@ -7481,7 +7487,7 @@
 			(uuid "63dd5838-90e1-4ae7-9af1-23805e72a1d1")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#FLG03")
 					(unit 1)
@@ -7573,7 +7579,7 @@
 			(uuid "54bb8ad7-4b6e-4b50-b637-74532c676e72")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "D7")
 					(unit 1)
@@ -7655,7 +7661,7 @@
 			(uuid "cdce2bed-5fd8-4f4b-8577-5825777b6123")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C19")
 					(unit 1)
@@ -7733,7 +7739,7 @@
 			(uuid "c9c0a366-a6e7-45b1-aa8d-1a90c7642099")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR029")
 					(unit 1)
@@ -7815,7 +7821,7 @@
 			(uuid "368b69b9-b072-4b04-9a20-7b3d46c10d19")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C20")
 					(unit 1)
@@ -7893,7 +7899,7 @@
 			(uuid "8ae22a74-b65f-4f09-8f4e-f28f7dfb921d")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR019")
 					(unit 1)
@@ -7975,7 +7981,7 @@
 			(uuid "5af19c89-5e9b-409a-a24b-ec69ceba2f6f")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C16")
 					(unit 1)
@@ -8053,7 +8059,7 @@
 			(uuid "7f9306b8-ccb3-4f3e-a065-485d11e2e53c")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR022")
 					(unit 1)
@@ -8215,7 +8221,7 @@
 			(uuid "e29ad8f4-f021-4b8f-8f96-ac6dbadecf28")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "U2")
 					(unit 1)
@@ -8293,7 +8299,7 @@
 			(uuid "8ea5410b-82eb-42c1-b61d-295f5975791c")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR017")
 					(unit 1)
@@ -8386,7 +8392,7 @@
 			(uuid "c0183c8c-32e5-4e54-8d76-f08b0fe8f290")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "J5")
 					(unit 1)
@@ -8464,7 +8470,7 @@
 			(uuid "a6f3ce79-c2cd-4ca9-810f-623debaeb4d3")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR035")
 					(unit 1)
@@ -8542,7 +8548,7 @@
 			(uuid "d475a92f-353f-4873-b10d-44e4505fa3c2")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR018")
 					(unit 1)
@@ -8621,7 +8627,7 @@
 			(uuid "2a6874cd-51c9-4f52-a0a7-99e7ba661d32")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#FLG05")
 					(unit 1)
@@ -8699,7 +8705,7 @@
 			(uuid "795a6fab-3727-43a6-a9ea-4208affe32fd")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR030")
 					(unit 1)
@@ -8781,7 +8787,7 @@
 			(uuid "42bde6cc-7480-4c01-9ee3-267fb37293f6")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C10")
 					(unit 1)
@@ -8863,7 +8869,7 @@
 			(uuid "da5486d4-7e7f-4383-bf3c-fd507067b3e7")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C8")
 					(unit 1)
@@ -8942,7 +8948,7 @@
 			(uuid "91f99059-e97d-4887-b923-653e2b1d65ae")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "L1")
 					(unit 1)
@@ -9024,7 +9030,7 @@
 			(uuid "36a4559e-c107-49b9-aa65-bb3122c6aee0")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C7")
 					(unit 1)
@@ -9105,7 +9111,7 @@
 			(uuid "110f67c8-1421-47df-bc64-40a4db27ee88")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C5")
 					(unit 1)
@@ -9187,7 +9193,7 @@
 			(uuid "f3c508c1-1df2-4288-a388-b8b9630a3b84")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "R14")
 					(unit 1)
@@ -9265,7 +9271,7 @@
 			(uuid "d7f12096-753d-4b77-b8a8-8ae90c4472ae")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR016")
 					(unit 1)
@@ -9351,7 +9357,7 @@
 			(uuid "eadf712f-5761-4a95-823c-7d378d6211da")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "Y1")
 					(unit 1)
@@ -9432,7 +9438,7 @@
 			(uuid "2109580c-c308-4566-af9f-28e533f16583")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C14")
 					(unit 1)
@@ -9510,7 +9516,7 @@
 			(uuid "9efa6fcc-b3a6-4dbc-8300-dabde76f4ccb")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR024")
 					(unit 1)
@@ -9588,7 +9594,7 @@
 			(uuid "16a7a810-1761-496a-851e-a24597d5221f")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#FLG02")
 					(unit 1)
@@ -9666,7 +9672,7 @@
 			(uuid "958c6a18-3fce-49d8-b75b-57381e488eab")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR023")
 					(unit 1)
@@ -9744,7 +9750,7 @@
 			(uuid "357c8c95-6f7c-48a8-b12d-4e9d6bd6dbb8")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR021")
 					(unit 1)
@@ -9826,7 +9832,7 @@
 			(uuid "725d6fdb-d43e-4fd0-a173-6b75e9024127")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "R18")
 					(unit 1)
@@ -9908,7 +9914,7 @@
 			(uuid "7a34ac31-a0fa-4919-8276-c5c6d6324bd9")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C6")
 					(unit 1)
@@ -9986,7 +9992,7 @@
 			(uuid "00dcfd98-ebf7-48e3-8f2e-00e388828507")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR025")
 					(unit 1)
@@ -10064,7 +10070,7 @@
 			(uuid "96234fa9-244f-4b58-84c9-1d2902cdf170")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR033")
 					(unit 1)
@@ -10142,7 +10148,7 @@
 			(uuid "d004afc2-e451-4853-8ec2-f2ae657166f4")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR015")
 					(unit 1)
@@ -10220,7 +10226,7 @@
 			(uuid "e8b5b4b6-a929-45c3-85f8-5ac4b621654a")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "#PWR032")
 					(unit 1)
@@ -10302,7 +10308,7 @@
 			(uuid "b16ce846-b96a-4e52-a86c-e706620d0cd9")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "R12")
 					(unit 1)
@@ -10384,7 +10390,7 @@
 			(uuid "c9b7abe6-e106-4316-aabe-68a2a68ca3f8")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C12")
 					(unit 1)
@@ -10466,7 +10472,7 @@
 			(uuid "a1961c21-acf0-4042-813e-fd8441d04604")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "C15")
 					(unit 1)
@@ -10548,7 +10554,7 @@
 			(uuid "32a6c9fa-fe2a-4179-9789-465b4ac4e839")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "SW1")
 					(unit 1)
@@ -10628,7 +10634,7 @@
 			(uuid "97313911-d718-49a3-aba5-b0ec2b148cbe")
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702/035a042a-e27c-47a0-bc8b-0546484d86a7"
 					(reference "FB2")
 					(unit 1)

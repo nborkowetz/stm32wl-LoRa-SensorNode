@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "3e989608-eeda-4a48-bc6c-c5e1d1678702")
 	(paper "A4")
+	(title_block
+		(title "LoRa Node main")
+		(date "2025-11-28")
+		(rev "A")
+		(company "Nicola Borkowetz")
+	)
 	(lib_symbols)
 	(wire
 		(pts
@@ -234,7 +240,7 @@
 			)
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702"
 					(page "2")
 				)
@@ -410,7 +416,7 @@
 			)
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702"
 					(page "3")
 				)
@@ -486,7 +492,7 @@
 			)
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702"
 					(page "5")
 				)
@@ -572,7 +578,7 @@
 			)
 		)
 		(instances
-			(project "demo wateranalyser"
+			(project "demo LoRa_Node"
 				(path "/3e989608-eeda-4a48-bc6c-c5e1d1678702"
 					(page "4")
 				)
