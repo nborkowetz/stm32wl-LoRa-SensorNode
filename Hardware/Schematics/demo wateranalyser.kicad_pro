@@ -259,7 +259,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "A"
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -508,7 +508,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "demo LoRa_Node.kicad_pro",
+    "filename": "demo wateranalyser.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -601,7 +601,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 1
+      "sort_order": 0
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -718,12 +718,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "demo LoRa_Node.kicad_sch",
+        "filename": "demo wateranalyser.kicad_sch",
         "name": "demo LoRa_Node",
         "uuid": "3e989608-eeda-4a48-bc6c-c5e1d1678702"
       }
     ],
-    "used_designators": "R24-25",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
